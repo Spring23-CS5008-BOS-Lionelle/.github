@@ -111,7 +111,7 @@ There is an associated Canvas page for this course. I will use it to post weekly
 
 While there is no required textbook for this course, there are two recommended textbooks: 
 
-* [Grokking Algorithms]([https://learning.oreilly.com/library/view/grokking-algorithms/9781617292231/), 1st Edition by Aditya Bhargava is friendly guide on for learning algorithms as they apply to practical problems faced by programmers on a regular basis. 
+* [Grokking Algorithms](https://learning.oreilly.com/library/view/grokking-algorithms/9781617292231/), 1st Edition by Aditya Bhargava is friendly guide on for learning algorithms as they apply to practical problems faced by programmers on a regular basis. 
 
 * [Dive Into Systems](https://diveintosystems.org/book/preface.html), by Suzanne J. Matthews, Tia Newhall, and Kevin C. Webb. A free, online textbook on computer systems and C.
 
