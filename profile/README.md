@@ -49,15 +49,6 @@ In general assignments are either formative or summative. Formative assignments 
 
 Please note:
 
-<!--
-| Category | Percent of Final Grade |
-|  :-- | :--: |
-| Lecture (5001) Activities | 10% |
-| Lab (5003) Activities  | 25% |
-| Homework | 40% |
-| Midterm | 10% |
-| Final  | 15% |
--->
 * Categories are subject to minor adjustments / changes throughout the semester. 
 * Category assignments will include a variety of assessment types, including participation / attendance activities
 * Ungraded Assignments, there will be assignments that are ungraded. The most important goal is your learning, so you should not let grades or points affect your reason for doing something!
@@ -120,8 +111,7 @@ There is an associated Canvas page for this course. I will use it to post weekly
 
 While there is no required textbook for this course, there are two recommended textbooks: 
 
-* [Grokking Algorithms]([https://learning.oreilly.com/library/view/grokking-algorithms/9781617292231/), 1st Edition by Aditya Bhargava is friendly guide on for learning algorithms as they apply to practical problems faced by programmers on a regular basis.  
-   > See instructions that follow for how to access it for free using your Northeastern University account. 
+* [Grokking Algorithms]([https://learning.oreilly.com/library/view/grokking-algorithms/9781617292231/), 1st Edition by Aditya Bhargava is friendly guide on for learning algorithms as they apply to practical problems faced by programmers on a regular basis. 
 
 * [Dive Into Systems](https://diveintosystems.org/book/preface.html), by Suzanne J. Matthews, Tia Newhall, and Kevin C. Webb. A free, online textbook on computer systems and C.
 
@@ -138,8 +128,8 @@ You may find these texts helpful if you're looking for additional resources on t
 As students at NU, you have access to a very awesome resource: O'Reilly Online. 
 
 To access it, and all the above textbooks:
-1. Go to NU's library page for computer science here: [https://subjectguides.lib.neu.edu/compsci]. 
-2. In the lower left hand corner, click on "Connect to O'Reilly", which will take you here [https://www.oreilly.com/library/view/temporary-access/]  
+1. Go to NU's library page for computer science here: https://subjectguides.lib.neu.edu/compsci. 
+2. In the lower left hand corner, click on "Connect to O'Reilly", which will take you here https://www.oreilly.com/library/view/temporary-access/  
 3. Select "Not listed".
 4. Put in your northeastern.edu email
 
